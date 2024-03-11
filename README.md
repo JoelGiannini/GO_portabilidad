@@ -1,4 +1,4 @@
-# GO_portabilidad_TELECOM
+# GO_portabilidad
 
 ## Automatizacion de tareas frecuentes para portabilidades de lineas
 
